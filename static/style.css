@@ -1,0 +1,31 @@
+
+
+
+.head{
+    margin:0 auto;
+    width:60%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.quote { 
+    text-align:center;
+    font-size:2em;
+    margin:  0 auto;
+    margin-top:2em;
+  
+    
+}
+
+.refresh{
+    text-decoration:none;
+    text-align: center;
+    font-size:2em;
+    width:4em;
+    margin:0 auto;
+    margin-top:2em;
+}
+
